@@ -1,2 +1,2 @@
 # Playbooks
-ELMO application sample playbooks and awx setup
+ELMO application sample playbooks
