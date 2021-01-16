@@ -1,0 +1,6 @@
+- name: PING PLAYBOOK
+  hosts: all
+  rmt_user: opc
+  tasks:
+    - ansible.builtin.ping:
+
